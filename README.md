@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 40%" />
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>  
   
 
@@ -92,7 +92,7 @@ Stack Software training.👨‍💻 🚀
 
 <br/>  
 
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=id5lkq5ubtztkp8og11ydawi8&cover_image=true&theme=default&show_offline=false&background_color=121212&bar_color=09ff00&bar_color_cover=true" /></div>  
+<div align="center"><img src="[[https://spotify-github-profile.vercel.app/api/view.svg?uid=id5lkq5ubtztkp8og11ydawi8&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=id5lkq5ubtztkp8og11ydawi8&cover_image=true&theme=default&show_offline=true&background_color=121212&bar_color_cover=true" /></div>  
 
 <br/>  
 
