@@ -1,7 +1,4 @@
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
-  
+
 
 ## Hello, I'm Kenan 👨‍💻
  and I'm 26 years old. I have Intermediate level of
